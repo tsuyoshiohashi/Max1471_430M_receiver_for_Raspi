@@ -64,6 +64,8 @@ The prompt color is green when the synthesizer is locked, and red when it is not
 
 When the LNA is High-gain, it is "H>", and when it is Low-gain, it is "L>".
 
+A history function allows you to display and re-enter command history.
+
 ### Command
 The following commands can be entered when the prompt is displayed.
 ### reset

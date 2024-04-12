@@ -103,7 +103,6 @@ class RxAfsk:
         del self.reg3
         del self.spi
 
-### TEST ###
 # help message 
 def show_help():
     print("commands: ")
